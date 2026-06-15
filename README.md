@@ -6,8 +6,6 @@
 
 **NovaSync** is an open-source, full-stack MERN productivity powerhouse. It combines an intelligent weekly routine builder, a GitHub-style contribution heatmap, an AI-powered smart assistant, comprehensive debt tracking, and a built-in Lofi Focus session player — all wrapped in a stunning, modern UI.
 
-[![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen?style=for-the-badge)](CONTRIBUTING.md)
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 [🌐 Live Demo](#-live-demo) · [⚡ Quick Start](#-quick-start) · [✨ Features](#-features)
 
