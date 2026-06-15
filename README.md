@@ -33,7 +33,7 @@ Most productivity tools force you into rigid boxes. **NovaSync** adapts to how y
 | Service  | URL |
 |----------|-----|
 | 🖥️ Frontend | [https://frontend-krishnas-projects-7d6accd9.vercel.app/](https://frontend-krishnas-projects-7d6accd9.vercel.app/) |
-| ⚙️ Backend API | [https://dailyforge-backend.onrender.com](https://dailyforge-backend.onrender.com) |
+
 
 *(Note: Free-tier backends may take 30-60 seconds to spin up on initial load)*
 
@@ -155,15 +155,4 @@ npm run dev
 
 ---
 
-## 🤝 Contribution Guidelines
 
-We welcome contributions! Please follow these steps:
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## 📜 License
-
-Distributed under the MIT License. See `LICENSE` for more information.
