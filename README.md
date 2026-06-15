@@ -68,6 +68,32 @@ Most productivity tools force you into rigid boxes. **NovaSync** adapts to how y
 
 ---
 
+## 📸 Screenshots
+
+Here is a visual overview of NovaSync in action:
+
+<details>
+<summary><b>🔥 Dashboard & Heatmap</b></summary>
+<img src="Screenshots/Dashboard.png" alt="Dashboard" />
+</details>
+
+<details>
+<summary><b>🗓️ Weekly Routine Builder</b></summary>
+<img src="Screenshots/Routine.png" alt="Routine Builder" />
+</details>
+
+<details>
+<summary><b>📋 Task Library</b></summary>
+<img src="Screenshots/Tasks.png" alt="Task Library" />
+</details>
+
+<details>
+<summary><b>🔐 Authentication (Signup)</b></summary>
+<img src="Screenshots/Signup.png" alt="Signup Page" />
+</details>
+
+---
+
 ## 🏗 Tech Stack
 
 **Frontend (Client)**
